@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ughitsanass&label=Profile%20views&color=0e75b6&style=flat" alt="ughitsanass" /> </p>
 
-- 🔭 I’m currently working on **JobListing**
+- 🔭 I’m currently working on **JobListing** , **ato** & **Legendre&Lureau**
 
-- 🌱 I’m currently learning **kotlin Multiplatform mobile**
+- 🌱 I’m currently learning :  **kotlin Multiplatform mobile** & **Symfony**
 
 - 👯 I’m looking to collaborate on **Laravel Framework**
 
